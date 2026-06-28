@@ -1,0 +1,14 @@
+D:\rhqshipon\programming\c_sharp\oop2day1ConsoleApp1\oop2_day1_ConsoleApp1\obj\Debug\net10.0\oop2_day1_ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\rhqshipon\programming\c_sharp\oop2day1ConsoleApp1\oop2_day1_ConsoleApp1\obj\Debug\net10.0\oop2_day1_ConsoleApp1.AssemblyInfoInputs.cache
+D:\rhqshipon\programming\c_sharp\oop2day1ConsoleApp1\oop2_day1_ConsoleApp1\obj\Debug\net10.0\oop2_day1_ConsoleApp1.AssemblyInfo.cs
+D:\rhqshipon\programming\c_sharp\oop2day1ConsoleApp1\oop2_day1_ConsoleApp1\obj\Debug\net10.0\oop2_day1_ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\rhqshipon\programming\c_sharp\oop2day1ConsoleApp1\oop2_day1_ConsoleApp1\bin\Debug\net10.0\oop2_day1_ConsoleApp1.exe
+D:\rhqshipon\programming\c_sharp\oop2day1ConsoleApp1\oop2_day1_ConsoleApp1\bin\Debug\net10.0\oop2_day1_ConsoleApp1.deps.json
+D:\rhqshipon\programming\c_sharp\oop2day1ConsoleApp1\oop2_day1_ConsoleApp1\bin\Debug\net10.0\oop2_day1_ConsoleApp1.runtimeconfig.json
+D:\rhqshipon\programming\c_sharp\oop2day1ConsoleApp1\oop2_day1_ConsoleApp1\bin\Debug\net10.0\oop2_day1_ConsoleApp1.dll
+D:\rhqshipon\programming\c_sharp\oop2day1ConsoleApp1\oop2_day1_ConsoleApp1\bin\Debug\net10.0\oop2_day1_ConsoleApp1.pdb
+D:\rhqshipon\programming\c_sharp\oop2day1ConsoleApp1\oop2_day1_ConsoleApp1\obj\Debug\net10.0\oop2_day1_ConsoleApp1.dll
+D:\rhqshipon\programming\c_sharp\oop2day1ConsoleApp1\oop2_day1_ConsoleApp1\obj\Debug\net10.0\refint\oop2_day1_ConsoleApp1.dll
+D:\rhqshipon\programming\c_sharp\oop2day1ConsoleApp1\oop2_day1_ConsoleApp1\obj\Debug\net10.0\oop2_day1_ConsoleApp1.pdb
+D:\rhqshipon\programming\c_sharp\oop2day1ConsoleApp1\oop2_day1_ConsoleApp1\obj\Debug\net10.0\oop2_day1_ConsoleApp1.genruntimeconfig.cache
+D:\rhqshipon\programming\c_sharp\oop2day1ConsoleApp1\oop2_day1_ConsoleApp1\obj\Debug\net10.0\ref\oop2_day1_ConsoleApp1.dll

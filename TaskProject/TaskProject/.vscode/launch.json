@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Launch TaskProject",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}/TaskProject.csproj",
+            "preLaunchTask": "build",
+        }
+    ]
+}
