@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\rhqshipon\\programming\\aiub\\aiub_oop2_c_sharp\\task2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42A10A7F-058A-4476-8575-41E24C16CD99}|task2\\task2.csproj|d:\\rhqshipon\\programming\\aiub\\aiub_oop2_c_sharp\\task2\\task2\\taskc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42A10A7F-058A-4476-8575-41E24C16CD99}|task2\\task2.csproj|solutionrelative:task2\\taskc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A10A7F-058A-4476-8575-41E24C16CD99}|task2\\task2.csproj|d:\\rhqshipon\\programming\\aiub\\aiub_oop2_c_sharp\\task2\\task2\\taska.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42A10A7F-058A-4476-8575-41E24C16CD99}|task2\\task2.csproj|solutionrelative:task2\\taska.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A10A7F-058A-4476-8575-41E24C16CD99}|task2\\task2.csproj|d:\\rhqshipon\\programming\\aiub\\aiub_oop2_c_sharp\\task2\\task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42A10A7F-058A-4476-8575-41E24C16CD99}|task2\\task2.csproj|solutionrelative:task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A10A7F-058A-4476-8575-41E24C16CD99}|task2\\task2.csproj|d:\\rhqshipon\\programming\\aiub\\aiub_oop2_c_sharp\\task2\\task2\\taskb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42A10A7F-058A-4476-8575-41E24C16CD99}|task2\\task2.csproj|solutionrelative:task2\\taskb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskC.cs",
+              "DocumentMoniker": "D:\\rhqshipon\\programming\\aiub\\aiub_oop2_c_sharp\\task2\\task2\\TaskC.cs",
+              "RelativeDocumentMoniker": "task2\\TaskC.cs",
+              "ToolTip": "D:\\rhqshipon\\programming\\aiub\\aiub_oop2_c_sharp\\task2\\task2\\TaskC.cs",
+              "RelativeToolTip": "task2\\TaskC.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T06:08:38.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskB.cs",
+              "DocumentMoniker": "D:\\rhqshipon\\programming\\aiub\\aiub_oop2_c_sharp\\task2\\task2\\TaskB.cs",
+              "RelativeDocumentMoniker": "task2\\TaskB.cs",
+              "ToolTip": "D:\\rhqshipon\\programming\\aiub\\aiub_oop2_c_sharp\\task2\\task2\\TaskB.cs",
+              "RelativeToolTip": "task2\\TaskB.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T06:02:03.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskA.cs",
+              "DocumentMoniker": "D:\\rhqshipon\\programming\\aiub\\aiub_oop2_c_sharp\\task2\\task2\\TaskA.cs",
+              "RelativeDocumentMoniker": "task2\\TaskA.cs",
+              "ToolTip": "D:\\rhqshipon\\programming\\aiub\\aiub_oop2_c_sharp\\task2\\task2\\TaskA.cs",
+              "RelativeToolTip": "task2\\TaskA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T05:50:03.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\rhqshipon\\programming\\aiub\\aiub_oop2_c_sharp\\task2\\task2\\Program.cs",
+              "RelativeDocumentMoniker": "task2\\Program.cs",
+              "ToolTip": "D:\\rhqshipon\\programming\\aiub\\aiub_oop2_c_sharp\\task2\\task2\\Program.cs",
+              "RelativeToolTip": "task2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T05:48:37.528Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

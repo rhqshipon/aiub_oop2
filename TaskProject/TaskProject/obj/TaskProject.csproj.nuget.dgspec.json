@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\rhqshipon\\programming\\aiub\\c_sharp\\TaskProject\\TaskProject\\TaskProject.csproj": {}
+    "D:\\rhqshipon\\programming\\aiub\\aiub_oop2_c_sharp\\TaskProject\\TaskProject\\TaskProject.csproj": {}
   },
   "projects": {
-    "d:\\rhqshipon\\programming\\aiub\\c_sharp\\TaskProject\\TaskProject\\TaskProject.csproj": {
+    "D:\\rhqshipon\\programming\\aiub\\aiub_oop2_c_sharp\\TaskProject\\TaskProject\\TaskProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\rhqshipon\\programming\\aiub\\c_sharp\\TaskProject\\TaskProject\\TaskProject.csproj",
+        "projectUniqueName": "D:\\rhqshipon\\programming\\aiub\\aiub_oop2_c_sharp\\TaskProject\\TaskProject\\TaskProject.csproj",
         "projectName": "TaskProject",
-        "projectPath": "d:\\rhqshipon\\programming\\aiub\\c_sharp\\TaskProject\\TaskProject\\TaskProject.csproj",
+        "projectPath": "D:\\rhqshipon\\programming\\aiub\\aiub_oop2_c_sharp\\TaskProject\\TaskProject\\TaskProject.csproj",
         "packagesPath": "C:\\Users\\rhqshipon\\.nuget\\packages\\",
-        "outputPath": "d:\\rhqshipon\\programming\\aiub\\c_sharp\\TaskProject\\TaskProject\\obj\\",
+        "outputPath": "D:\\rhqshipon\\programming\\aiub\\aiub_oop2_c_sharp\\TaskProject\\TaskProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rhqshipon\\AppData\\Roaming\\NuGet\\NuGet.Config",

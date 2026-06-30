@@ -1,0 +1,15 @@
+D:\rhqshipon\programming\aiub\aiub_oop2_c_sharp\task2\task2\bin\Debug\net10.0\task2.exe
+D:\rhqshipon\programming\aiub\aiub_oop2_c_sharp\task2\task2\bin\Debug\net10.0\task2.deps.json
+D:\rhqshipon\programming\aiub\aiub_oop2_c_sharp\task2\task2\bin\Debug\net10.0\task2.runtimeconfig.json
+D:\rhqshipon\programming\aiub\aiub_oop2_c_sharp\task2\task2\bin\Debug\net10.0\task2.dll
+D:\rhqshipon\programming\aiub\aiub_oop2_c_sharp\task2\task2\bin\Debug\net10.0\task2.pdb
+D:\rhqshipon\programming\aiub\aiub_oop2_c_sharp\task2\task2\obj\Debug\net10.0\task2.GeneratedMSBuildEditorConfig.editorconfig
+D:\rhqshipon\programming\aiub\aiub_oop2_c_sharp\task2\task2\obj\Debug\net10.0\task2.AssemblyInfoInputs.cache
+D:\rhqshipon\programming\aiub\aiub_oop2_c_sharp\task2\task2\obj\Debug\net10.0\task2.AssemblyInfo.cs
+D:\rhqshipon\programming\aiub\aiub_oop2_c_sharp\task2\task2\obj\Debug\net10.0\task2.csproj.CoreCompileInputs.cache
+D:\rhqshipon\programming\aiub\aiub_oop2_c_sharp\task2\task2\obj\Debug\net10.0\task2.sourcelink.json
+D:\rhqshipon\programming\aiub\aiub_oop2_c_sharp\task2\task2\obj\Debug\net10.0\task2.dll
+D:\rhqshipon\programming\aiub\aiub_oop2_c_sharp\task2\task2\obj\Debug\net10.0\refint\task2.dll
+D:\rhqshipon\programming\aiub\aiub_oop2_c_sharp\task2\task2\obj\Debug\net10.0\task2.pdb
+D:\rhqshipon\programming\aiub\aiub_oop2_c_sharp\task2\task2\obj\Debug\net10.0\task2.genruntimeconfig.cache
+D:\rhqshipon\programming\aiub\aiub_oop2_c_sharp\task2\task2\obj\Debug\net10.0\ref\task2.dll

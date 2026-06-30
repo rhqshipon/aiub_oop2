@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\rhqshipon\\programming\\aiub\\c_sharp\\TaskProject\\TaskProject\\TaskProject.csproj",
+      "projectUniqueName": "D:\\rhqshipon\\programming\\aiub\\aiub_oop2_c_sharp\\TaskProject\\TaskProject\\TaskProject.csproj",
       "projectName": "TaskProject",
-      "projectPath": "D:\\rhqshipon\\programming\\aiub\\c_sharp\\TaskProject\\TaskProject\\TaskProject.csproj",
+      "projectPath": "D:\\rhqshipon\\programming\\aiub\\aiub_oop2_c_sharp\\TaskProject\\TaskProject\\TaskProject.csproj",
       "packagesPath": "C:\\Users\\rhqshipon\\.nuget\\packages\\",
-      "outputPath": "D:\\rhqshipon\\programming\\aiub\\c_sharp\\TaskProject\\TaskProject\\obj\\",
+      "outputPath": "D:\\rhqshipon\\programming\\aiub\\aiub_oop2_c_sharp\\TaskProject\\TaskProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rhqshipon\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,15 @@
+D:\rhqshipon\programming\aiub\aiub_oop2_c_sharp\SchoolManagementSystem1\SchoolManagementSystem1\bin\Debug\net10.0\SchoolManagementSystem1.exe
+D:\rhqshipon\programming\aiub\aiub_oop2_c_sharp\SchoolManagementSystem1\SchoolManagementSystem1\bin\Debug\net10.0\SchoolManagementSystem1.deps.json
+D:\rhqshipon\programming\aiub\aiub_oop2_c_sharp\SchoolManagementSystem1\SchoolManagementSystem1\bin\Debug\net10.0\SchoolManagementSystem1.runtimeconfig.json
+D:\rhqshipon\programming\aiub\aiub_oop2_c_sharp\SchoolManagementSystem1\SchoolManagementSystem1\bin\Debug\net10.0\SchoolManagementSystem1.dll
+D:\rhqshipon\programming\aiub\aiub_oop2_c_sharp\SchoolManagementSystem1\SchoolManagementSystem1\bin\Debug\net10.0\SchoolManagementSystem1.pdb
+D:\rhqshipon\programming\aiub\aiub_oop2_c_sharp\SchoolManagementSystem1\SchoolManagementSystem1\obj\Debug\net10.0\SchoolManagementSystem1.GeneratedMSBuildEditorConfig.editorconfig
+D:\rhqshipon\programming\aiub\aiub_oop2_c_sharp\SchoolManagementSystem1\SchoolManagementSystem1\obj\Debug\net10.0\SchoolManagementSystem1.AssemblyInfoInputs.cache
+D:\rhqshipon\programming\aiub\aiub_oop2_c_sharp\SchoolManagementSystem1\SchoolManagementSystem1\obj\Debug\net10.0\SchoolManagementSystem1.AssemblyInfo.cs
+D:\rhqshipon\programming\aiub\aiub_oop2_c_sharp\SchoolManagementSystem1\SchoolManagementSystem1\obj\Debug\net10.0\SchoolManagementSystem1.csproj.CoreCompileInputs.cache
+D:\rhqshipon\programming\aiub\aiub_oop2_c_sharp\SchoolManagementSystem1\SchoolManagementSystem1\obj\Debug\net10.0\SchoolManagementSystem1.sourcelink.json
+D:\rhqshipon\programming\aiub\aiub_oop2_c_sharp\SchoolManagementSystem1\SchoolManagementSystem1\obj\Debug\net10.0\SchoolManagementSystem1.dll
+D:\rhqshipon\programming\aiub\aiub_oop2_c_sharp\SchoolManagementSystem1\SchoolManagementSystem1\obj\Debug\net10.0\refint\SchoolManagementSystem1.dll
+D:\rhqshipon\programming\aiub\aiub_oop2_c_sharp\SchoolManagementSystem1\SchoolManagementSystem1\obj\Debug\net10.0\SchoolManagementSystem1.pdb
+D:\rhqshipon\programming\aiub\aiub_oop2_c_sharp\SchoolManagementSystem1\SchoolManagementSystem1\obj\Debug\net10.0\SchoolManagementSystem1.genruntimeconfig.cache
+D:\rhqshipon\programming\aiub\aiub_oop2_c_sharp\SchoolManagementSystem1\SchoolManagementSystem1\obj\Debug\net10.0\ref\SchoolManagementSystem1.dll
