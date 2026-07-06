@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\rhqshipon\\programming\\aiub\\aiub_oop2_c_sharp\\task3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{357EA1F0-6212-4E26-9E76-677917A3E2B6}|task3\\task3.csproj|d:\\rhqshipon\\programming\\aiub\\aiub_oop2_c_sharp\\task3\\task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{357EA1F0-6212-4E26-9E76-677917A3E2B6}|task3\\task3.csproj|solutionrelative:task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{357EA1F0-6212-4E26-9E76-677917A3E2B6}|task3\\task3.csproj|d:\\rhqshipon\\programming\\aiub\\aiub_oop2_c_sharp\\task3\\task3\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{357EA1F0-6212-4E26-9E76-677917A3E2B6}|task3\\task3.csproj|solutionrelative:task3\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{357EA1F0-6212-4E26-9E76-677917A3E2B6}|task3\\task3.csproj|d:\\rhqshipon\\programming\\aiub\\aiub_oop2_c_sharp\\task3\\task3\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{357EA1F0-6212-4E26-9E76-677917A3E2B6}|task3\\task3.csproj|solutionrelative:task3\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\rhqshipon\\programming\\aiub\\aiub_oop2_c_sharp\\task3\\task3\\Book.cs",
+              "RelativeDocumentMoniker": "task3\\Book.cs",
+              "ToolTip": "D:\\rhqshipon\\programming\\aiub\\aiub_oop2_c_sharp\\task3\\task3\\Book.cs",
+              "RelativeToolTip": "task3\\Book.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAwwCkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T06:12:33.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\rhqshipon\\programming\\aiub\\aiub_oop2_c_sharp\\task3\\task3\\Student.cs",
+              "RelativeDocumentMoniker": "task3\\Student.cs",
+              "ToolTip": "D:\\rhqshipon\\programming\\aiub\\aiub_oop2_c_sharp\\task3\\task3\\Student.cs",
+              "RelativeToolTip": "task3\\Student.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAADAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T05:33:32.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\rhqshipon\\programming\\aiub\\aiub_oop2_c_sharp\\task3\\task3\\Program.cs",
+              "RelativeDocumentMoniker": "task3\\Program.cs",
+              "ToolTip": "D:\\rhqshipon\\programming\\aiub\\aiub_oop2_c_sharp\\task3\\task3\\Program.cs",
+              "RelativeToolTip": "task3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T05:27:33.965Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -4,38 +4,49 @@ using System.Text;
 
 namespace task2
 {
-    internal class TaskB
+    class Matrix
     {
-        public void MatrixSum()
+        private int[,] data = new int[3, 3];
+
+        public void ReadElements()
         {
-            int[,] matrix = new int[3, 3];
-
             Console.WriteLine("Enter elements of 3x3 matrix:");
-
             for (int i = 0; i < 3; i++)
             {
                 for (int j = 0; j < 3; j++)
                 {
-                    matrix[i, j] = int.Parse(Console.ReadLine());
+                    data[i, j] = int.Parse(Console.ReadLine());
                 }
             }
+        }
 
+        public void PrintAndSum()
+        {
             int sum = 0;
-
             Console.WriteLine("Matrix Elements:");
 
             for (int i = 0; i < 3; i++)
             {
                 for (int j = 0; j < 3; j++)
                 {
-                    Console.Write(matrix[i, j] + " ");
-                    sum += matrix[i, j];
+                    Console.Write(data[i, j] + " ");
+                    sum += data[i, j];
                 }
-
                 Console.WriteLine();
             }
 
             Console.WriteLine($"Sum of all elements: {sum}");
+        }
+    }
+
+    internal class TaskB
+    {
+        public void MatrixSum()
+        {
+            Matrix myMatrix = new Matrix();
+
+            myMatrix.ReadElements();
+            myMatrix.PrintAndSum();
         }
     }
 }

@@ -4,17 +4,17 @@ using System.Text;
 
 namespace task2
 {
-    internal class TaskC
+    class StudentMarksTracker
     {
-        public void JaggedArray()
+        private int[][] marks;
+        private int studentCount;
+
+        public void ReadStudentData()
         {
             Console.Write("Enter number of students: ");
-            int studentCount = int.Parse(Console.ReadLine());
+            studentCount = int.Parse(Console.ReadLine());
 
-            int[][] marks = new int[studentCount][];
-
-            int highestTotal = 0;
-            int highestStudent = 0;
+            marks = new int[studentCount][];
 
             for (int i = 0; i < studentCount; i++)
             {
@@ -23,13 +23,18 @@ namespace task2
 
                 marks[i] = new int[subjectCount];
 
-                Console.Write("Marks: ");
-
+                Console.WriteLine($"Enter marks for Student {i + 1}: ");
                 for (int j = 0; j < subjectCount; j++)
                 {
                     marks[i][j] = int.Parse(Console.ReadLine());
                 }
             }
+        }
+
+        public void CalculateAndPrintResults()
+        {
+            int highestTotal = 0;
+            int highestStudent = 0;
 
             for (int i = 0; i < studentCount; i++)
             {
@@ -49,9 +54,18 @@ namespace task2
                 }
             }
 
-            Console.WriteLine(
-                $"Highest Scoring Student: Student {highestStudent} with {highestTotal} marks"
-            );
+            Console.WriteLine($"Highest Scoring Student: Student {highestStudent} with {highestTotal} marks");
+        }
+    }
+
+    internal class TaskC
+    {
+        public void JaggedArray()
+        {
+            StudentMarksTracker tracker = new StudentMarksTracker();
+
+            tracker.ReadStudentData();
+            tracker.CalculateAndPrintResults();
         }
     }
 }
