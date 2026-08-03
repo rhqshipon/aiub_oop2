@@ -1,0 +1,15 @@
+D:\rhqshipon\programming\aiub\aiub_oop2_c_sharp\labexamtask2\labexamtask2\bin\Debug\net10.0\labexamtask2.exe
+D:\rhqshipon\programming\aiub\aiub_oop2_c_sharp\labexamtask2\labexamtask2\bin\Debug\net10.0\labexamtask2.deps.json
+D:\rhqshipon\programming\aiub\aiub_oop2_c_sharp\labexamtask2\labexamtask2\bin\Debug\net10.0\labexamtask2.runtimeconfig.json
+D:\rhqshipon\programming\aiub\aiub_oop2_c_sharp\labexamtask2\labexamtask2\bin\Debug\net10.0\labexamtask2.dll
+D:\rhqshipon\programming\aiub\aiub_oop2_c_sharp\labexamtask2\labexamtask2\bin\Debug\net10.0\labexamtask2.pdb
+D:\rhqshipon\programming\aiub\aiub_oop2_c_sharp\labexamtask2\labexamtask2\obj\Debug\net10.0\labexamtask2.GeneratedMSBuildEditorConfig.editorconfig
+D:\rhqshipon\programming\aiub\aiub_oop2_c_sharp\labexamtask2\labexamtask2\obj\Debug\net10.0\labexamtask2.AssemblyInfoInputs.cache
+D:\rhqshipon\programming\aiub\aiub_oop2_c_sharp\labexamtask2\labexamtask2\obj\Debug\net10.0\labexamtask2.AssemblyInfo.cs
+D:\rhqshipon\programming\aiub\aiub_oop2_c_sharp\labexamtask2\labexamtask2\obj\Debug\net10.0\labexamtask2.csproj.CoreCompileInputs.cache
+D:\rhqshipon\programming\aiub\aiub_oop2_c_sharp\labexamtask2\labexamtask2\obj\Debug\net10.0\labexamtask2.sourcelink.json
+D:\rhqshipon\programming\aiub\aiub_oop2_c_sharp\labexamtask2\labexamtask2\obj\Debug\net10.0\labexamtask2.dll
+D:\rhqshipon\programming\aiub\aiub_oop2_c_sharp\labexamtask2\labexamtask2\obj\Debug\net10.0\refint\labexamtask2.dll
+D:\rhqshipon\programming\aiub\aiub_oop2_c_sharp\labexamtask2\labexamtask2\obj\Debug\net10.0\labexamtask2.pdb
+D:\rhqshipon\programming\aiub\aiub_oop2_c_sharp\labexamtask2\labexamtask2\obj\Debug\net10.0\labexamtask2.genruntimeconfig.cache
+D:\rhqshipon\programming\aiub\aiub_oop2_c_sharp\labexamtask2\labexamtask2\obj\Debug\net10.0\ref\labexamtask2.dll
