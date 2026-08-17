@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\rhqshipon\\programming\\aiub\\aiub_oop2_c_sharp\\final\\DatabaseExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C117DC89-578F-4302-1C6B-3E6594885722}|DatabaseExample\\DatabaseExample.csproj|d:\\rhqshipon\\programming\\aiub\\aiub_oop2_c_sharp\\final\\databaseexample\\databaseexample\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C117DC89-578F-4302-1C6B-3E6594885722}|DatabaseExample\\DatabaseExample.csproj|solutionrelative:databaseexample\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C117DC89-578F-4302-1C6B-3E6594885722}|DatabaseExample\\DatabaseExample.csproj|D:\\rhqshipon\\programming\\aiub\\aiub_oop2_c_sharp\\final\\DatabaseExample\\databaseexample\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C117DC89-578F-4302-1C6B-3E6594885722}|DatabaseExample\\DatabaseExample.csproj|solutionrelative:databaseexample\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\rhqshipon\\programming\\aiub\\aiub_oop2_c_sharp\\final\\DatabaseExample\\DatabaseExample\\Form1.cs",
+              "RelativeDocumentMoniker": "DatabaseExample\\Form1.cs",
+              "ToolTip": "D:\\rhqshipon\\programming\\aiub\\aiub_oop2_c_sharp\\final\\DatabaseExample\\DatabaseExample\\Form1.cs",
+              "RelativeToolTip": "DatabaseExample\\Form1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T04:58:34.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\rhqshipon\\programming\\aiub\\aiub_oop2_c_sharp\\final\\DatabaseExample\\DatabaseExample\\Form1.cs",
+              "RelativeDocumentMoniker": "DatabaseExample\\Form1.cs",
+              "ToolTip": "D:\\rhqshipon\\programming\\aiub\\aiub_oop2_c_sharp\\final\\DatabaseExample\\DatabaseExample\\Form1.cs [Design]",
+              "RelativeToolTip": "DatabaseExample\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T04:57:36.838Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
