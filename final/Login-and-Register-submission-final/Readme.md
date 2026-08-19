@@ -16,5 +16,5 @@ using (SqlCommand cmd = new SqlCommand(query, con))
     
     // ... execute query
 }
-
+```
 ![Fixed SQL](screenshot_b.png)
