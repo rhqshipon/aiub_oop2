@@ -8,6 +8,10 @@ In the original, insecure version of the application, the SQL query was construc
 string query = "SELECT * FROM Users WHERE Username = '" + txtUsername.Text + "' AND Password = '" + txtPassword.Text + "'";
 
 
+
+
+But After Fixing,
+
 string query = "SELECT FullName FROM dbo.Users WHERE Username = @Username AND PasswordHash = @PasswordHash";
 using (SqlCommand cmd = new SqlCommand(query, con))
 {
