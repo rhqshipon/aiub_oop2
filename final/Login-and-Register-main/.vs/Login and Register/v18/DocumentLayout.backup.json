@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "D:\\rhqshipon\\programming\\aiub\\aiub_oop2_c_sharp\\final\\Login-and-Register-main\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A9A61358-1B63-46CD-885D-BC2AD901BCCA}|Login and Register\\Login and Register.csproj|D:\\rhqshipon\\programming\\aiub\\aiub_oop2_c_sharp\\final\\Login-and-Register-main\\login and register\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9A61358-1B63-46CD-885D-BC2AD901BCCA}|Login and Register\\Login and Register.csproj|solutionrelative:login and register\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A9A61358-1B63-46CD-885D-BC2AD901BCCA}|Login and Register\\Login and Register.csproj|D:\\rhqshipon\\programming\\aiub\\aiub_oop2_c_sharp\\final\\Login-and-Register-main\\login and register\\frmregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9A61358-1B63-46CD-885D-BC2AD901BCCA}|Login and Register\\Login and Register.csproj|solutionrelative:login and register\\frmregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9A61358-1B63-46CD-885D-BC2AD901BCCA}|Login and Register\\Login and Register.csproj|d:\\rhqshipon\\programming\\aiub\\aiub_oop2_c_sharp\\final\\login-and-register-main\\login and register\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{A9A61358-1B63-46CD-885D-BC2AD901BCCA}|Login and Register\\Login and Register.csproj|D:\\rhqshipon\\programming\\aiub\\aiub_oop2_c_sharp\\final\\Login-and-Register-main\\login and register\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{A9A61358-1B63-46CD-885D-BC2AD901BCCA}|Login and Register\\Login and Register.csproj|solutionrelative:login and register\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9A61358-1B63-46CD-885D-BC2AD901BCCA}|Login and Register\\Login and Register.csproj|d:\\rhqshipon\\programming\\aiub\\aiub_oop2_c_sharp\\final\\login-and-register-main\\login and register\\frmdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9A61358-1B63-46CD-885D-BC2AD901BCCA}|Login and Register\\Login and Register.csproj|solutionrelative:login and register\\frmdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A9A61358-1B63-46CD-885D-BC2AD901BCCA}|Login and Register\\Login and Register.csproj|D:\\rhqshipon\\programming\\aiub\\aiub_oop2_c_sharp\\final\\Login-and-Register-main\\login and register\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A9A61358-1B63-46CD-885D-BC2AD901BCCA}|Login and Register\\Login and Register.csproj|solutionrelative:login and register\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A9A61358-1B63-46CD-885D-BC2AD901BCCA}|Login and Register\\Login and Register.csproj|D:\\rhqshipon\\programming\\aiub\\aiub_oop2_c_sharp\\final\\Login-and-Register-main\\login and register\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -23,12 +27,8 @@
       "RelativeMoniker": "D:0:0:{A9A61358-1B63-46CD-885D-BC2AD901BCCA}|Login and Register\\Login and Register.csproj|solutionrelative:login and register\\frmregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9A61358-1B63-46CD-885D-BC2AD901BCCA}|Login and Register\\Login and Register.csproj|d:\\rhqshipon\\programming\\aiub\\aiub_oop2_c_sharp\\final\\login-and-register-main\\login and register\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9A61358-1B63-46CD-885D-BC2AD901BCCA}|Login and Register\\Login and Register.csproj|solutionrelative:login and register\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9A61358-1B63-46CD-885D-BC2AD901BCCA}|Login and Register\\Login and Register.csproj|D:\\rhqshipon\\programming\\aiub\\aiub_oop2_c_sharp\\final\\Login-and-Register-main\\login and register\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A9A61358-1B63-46CD-885D-BC2AD901BCCA}|Login and Register\\Login and Register.csproj|solutionrelative:login and register\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A9A61358-1B63-46CD-885D-BC2AD901BCCA}|Login and Register\\Login and Register.csproj|d:\\rhqshipon\\programming\\aiub\\aiub_oop2_c_sharp\\final\\login-and-register-main\\login and register\\frmdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9A61358-1B63-46CD-885D-BC2AD901BCCA}|Login and Register\\Login and Register.csproj|solutionrelative:login and register\\frmdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,24 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "frmDashboard.Designer.cs",
-              "DocumentMoniker": "D:\\rhqshipon\\programming\\aiub\\aiub_oop2_c_sharp\\final\\Login-and-Register-main\\Login and Register\\frmDashboard.Designer.cs",
-              "RelativeDocumentMoniker": "Login and Register\\frmDashboard.Designer.cs",
-              "ToolTip": "D:\\rhqshipon\\programming\\aiub\\aiub_oop2_c_sharp\\final\\Login-and-Register-main\\Login and Register\\frmDashboard.Designer.cs",
-              "RelativeToolTip": "Login and Register\\frmDashboard.Designer.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-17T05:42:36.701Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "App.config",
               "DocumentMoniker": "D:\\rhqshipon\\programming\\aiub\\aiub_oop2_c_sharp\\final\\Login-and-Register-main\\Login and Register\\App.config",
               "RelativeDocumentMoniker": "Login and Register\\App.config",
@@ -68,20 +55,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "frmRegister.cs",
               "DocumentMoniker": "D:\\rhqshipon\\programming\\aiub\\aiub_oop2_c_sharp\\final\\Login-and-Register-main\\Login and Register\\frmRegister.cs",
               "RelativeDocumentMoniker": "Login and Register\\frmRegister.cs",
               "ToolTip": "D:\\rhqshipon\\programming\\aiub\\aiub_oop2_c_sharp\\final\\Login-and-Register-main\\Login and Register\\frmRegister.cs",
               "RelativeToolTip": "Login and Register\\frmRegister.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-17T04:47:23.892Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "frmRegister.cs [Design]",
               "DocumentMoniker": "D:\\rhqshipon\\programming\\aiub\\aiub_oop2_c_sharp\\final\\Login-and-Register-main\\Login and Register\\frmRegister.cs",
               "RelativeDocumentMoniker": "Login and Register\\frmRegister.cs",
@@ -93,7 +80,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "frmDashboard.cs [Design]",
               "DocumentMoniker": "D:\\rhqshipon\\programming\\aiub\\aiub_oop2_c_sharp\\final\\Login-and-Register-main\\Login and Register\\frmDashboard.cs",
               "RelativeDocumentMoniker": "Login and Register\\frmDashboard.cs",
@@ -105,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "frmLogin.cs [Design]",
               "DocumentMoniker": "D:\\rhqshipon\\programming\\aiub\\aiub_oop2_c_sharp\\final\\Login-and-Register-main\\Login and Register\\frmLogin.cs",
               "RelativeDocumentMoniker": "Login and Register\\frmLogin.cs",
@@ -117,15 +104,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "frmLogin.cs",
               "DocumentMoniker": "D:\\rhqshipon\\programming\\aiub\\aiub_oop2_c_sharp\\final\\Login-and-Register-main\\Login and Register\\frmLogin.cs",
               "RelativeDocumentMoniker": "Login and Register\\frmLogin.cs",
               "ToolTip": "D:\\rhqshipon\\programming\\aiub\\aiub_oop2_c_sharp\\final\\Login-and-Register-main\\Login and Register\\frmLogin.cs",
               "RelativeToolTip": "Login and Register\\frmLogin.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAYwCUAAABuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-17T04:47:23.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmDashboard.Designer.cs",
+              "DocumentMoniker": "D:\\rhqshipon\\programming\\aiub\\aiub_oop2_c_sharp\\final\\Login-and-Register-main\\Login and Register\\frmDashboard.Designer.cs",
+              "RelativeDocumentMoniker": "Login and Register\\frmDashboard.Designer.cs",
+              "ToolTip": "D:\\rhqshipon\\programming\\aiub\\aiub_oop2_c_sharp\\final\\Login-and-Register-main\\Login and Register\\frmDashboard.Designer.cs",
+              "RelativeToolTip": "Login and Register\\frmDashboard.Designer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T05:42:36.701Z",
               "EditorCaption": ""
             }
           ]

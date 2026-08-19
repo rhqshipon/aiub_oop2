@@ -1,4 +1,4 @@
-﻿using Microsoft.Data.SqlClient; // Changed from OleDb
+﻿using Microsoft.Data.SqlClient;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -14,7 +14,6 @@ namespace Login_and_Register
 {
     public partial class frmRegister : Form
     {
-        // 1. Just DECLARE the variables here, don't assign them yet
         SqlConnection con;
         SqlCommand cmd = new SqlCommand();
         SqlDataAdapter da = new SqlDataAdapter();
@@ -23,7 +22,6 @@ namespace Login_and_Register
         {
             InitializeComponent();
 
-            // 2. ASSIGN the connection string here, inside the constructor
             string connectionString = ConfigurationManager.ConnectionStrings["con"].ConnectionString;
             con = new SqlConnection(connectionString);
         }
@@ -40,12 +38,10 @@ namespace Login_and_Register
                 {
                     con.Open();
 
-                    // Using parameterized queries for SQL Server to prevent SQL injection
                     string register = "INSERT INTO logininfo1 (Username, Password) VALUES (@username, @password)";
 
                     cmd = new SqlCommand(register, con);
 
-                    // Add parameters to safely bind the textbox values
                     cmd.Parameters.AddWithValue("@username", txtUsername.Text);
                     cmd.Parameters.AddWithValue("@password", txtPassword.Text);
 
@@ -64,7 +60,6 @@ namespace Login_and_Register
                 }
                 finally
                 {
-                    // Ensure the connection is always closed, even if an error occurs
                     if (con.State == ConnectionState.Open)
                     {
                         con.Close();

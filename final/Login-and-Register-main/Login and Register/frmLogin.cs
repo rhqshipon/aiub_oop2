@@ -1,4 +1,4 @@
-﻿using Microsoft.Data.SqlClient; // Updated to the modern SQL client
+﻿using Microsoft.Data.SqlClient;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -14,7 +14,6 @@ namespace Login_and_Register
 {
     public partial class frmLogin : Form
     {
-        // 1. Just DECLARE the variables here
         SqlConnection con;
         SqlCommand cmd = new SqlCommand();
         SqlDataAdapter da = new SqlDataAdapter();
@@ -23,7 +22,6 @@ namespace Login_and_Register
         {
             InitializeComponent();
 
-            // 2. ASSIGN the connection string here
             string connectionString = ConfigurationManager.ConnectionStrings["con"].ConnectionString;
             con = new SqlConnection(connectionString);
         }
@@ -34,11 +32,9 @@ namespace Login_and_Register
             {
                 con.Open();
 
-                // Using parameterized queries to securely pass credentials
                 string login = "SELECT * FROM logininfo1 WHERE username = @username and password = @password";
                                 cmd = new SqlCommand(login, con);
 
-                // Bind the parameters safely
                 cmd.Parameters.AddWithValue("@username", txtUsername.Text);
                 cmd.Parameters.AddWithValue("@password", txtPassword.Text);
 
@@ -57,7 +53,7 @@ namespace Login_and_Register
                     txtUsername.Focus();
                 }
 
-                dr.Close(); // Good practice to close the reader when done
+                dr.Close();
             }
             catch (Exception ex)
             {
@@ -65,7 +61,6 @@ namespace Login_and_Register
             }
             finally
             {
-                // Ensure connection is closed even if the login fails or throws an error
                 if (con.State == ConnectionState.Open)
                 {
                     con.Close();
