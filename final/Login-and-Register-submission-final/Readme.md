@@ -1,4 +1,4 @@
-## Task 6: SQL Injection Demo
+## SQL Injection Demo
 
 ### 1. The Vulnerability
 In the original, insecure version of the application, the SQL query was constructed using simple string concatenation. This allows user input to alter the logic of the SQL statement.
